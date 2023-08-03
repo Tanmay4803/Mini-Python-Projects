@@ -1,1 +1,8 @@
 # Mini-Python-Projects
+
+1) Rock, Paper and Scissors Game
+2) Quiz Game
+3) Password Manager
+4) Number Guessing Game
+5) Personal Timer
+6) Timed Math Challenge
