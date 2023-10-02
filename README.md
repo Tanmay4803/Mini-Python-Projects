@@ -7,3 +7,4 @@
 5) Personal Timer
 6) Timed Math Challenge
 7) Hangman
+8) Higher Lower Game
