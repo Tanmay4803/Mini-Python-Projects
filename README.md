@@ -6,5 +6,6 @@
 4) Number Guessing Game
 5) Personal Timer
 6) Timed Math Challenge
-7) Hangman
+7) Hangman Game
 8) Higher Lower Game
+9) Blackjack Game
