@@ -9,3 +9,4 @@
 7) Hangman Game
 8) Higher Lower Game
 9) Blackjack Game
+10) Coffee Machine Project
