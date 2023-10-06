@@ -10,3 +10,4 @@
 8) Higher Lower Game
 9) Blackjack Game
 10) Coffee Machine Project
+11) Snake Game
